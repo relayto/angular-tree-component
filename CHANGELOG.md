@@ -1,3 +1,10 @@
+<a name="10.0.3"></a>
+# 10.0.3 (2021-02-23)
+
+### Bug Fixes
+
+* reverting change to add scroll eventhandler inside ng cd ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/852)) ([c176c7b](https://github.com/CirclonGroup/angular-tree-component/commit/c176c7b)), closes ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/852))
+
 <a name="10.0.2"></a>
 # 10.0.2 (2020-12-21)
 
