@@ -1,3 +1,12 @@
+<a name="9.0.4"></a>
+# 9.0.4 (2021-02-23)
+
+### Bug Fixes
+
+* reverting change to add scroll eventhandler inside ng cd ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/852)) ([c176c7b](https://github.com/CirclonGroup/angular-tree-component/commit/c176c7b)), closes ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/852))
+* do not load whole child collection with virtual scroll ([#463](https://github.com/CirclonGroup/angular-tree-component/issues/463)) ([a62fc73](https://github.com/CirclonGroup/angular-tree-component/commit/5a1a14e))
+* update lodash-es ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/862)) ([22e0d85](https://github.com/CirclonGroup/angular-tree-component/commit/22e0d85)), closes ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/862))
+
 <a name="9.0.3"></a>
 # 9.0.3 (2020-07-20)
 
