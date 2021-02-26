@@ -1,3 +1,10 @@
+<a name="9.0.5"></a>
+# 9.0.5 (2021-02-26)
+
+### Bug Fixes
+
+* update lodash-es ([9e1ee33](https://github.com/CirclonGroup/angular-tree-component/commit/9e1ee33))
+
 <a name="9.0.4"></a>
 # 9.0.4 (2021-02-23)
 
